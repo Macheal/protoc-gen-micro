@@ -31,3 +31,4 @@ coverage.out
 # ignore locally built binaries
 protoc-gen-micro
 dist
+.idea
